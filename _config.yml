@@ -1,17 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Yash's website
+description:    "A collection of econ blogposts"
+url:            "https://yashsalunkhe.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Yash Salunkhe
+  url:          https://yashsalunkhe.github.io/
+  email:        salunkhe.yash92@gmail.com
 
 # Build settings
 markdown:       kramdown
